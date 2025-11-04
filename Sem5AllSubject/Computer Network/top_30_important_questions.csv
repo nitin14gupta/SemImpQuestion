@@ -1,0 +1,31 @@
+Sr. No.,Question
+1,1. Explain OSI/ISO reference model with a neat diagram and compare it with TCP/IP reference model. (10 marks)
+2,2. What is SDN? Explain SDN architecture along with Operations of control and data planes. (10 marks)
+3,3. Explain sliding window protocol using GO Back-N technique with suitable example. (10 marks)
+4,4. Explain IPv4 classful and classless addressing with their differences. State disadvantages of classful addressing. (10 marks)
+5,5. What is Channel Allocation problem? Explain CSMA/CD protocol. A network with CSMA/CD has 100 Mbps bandwidth and 25.60 microsecond maximum propagation delay. What is the minimum frame size? (10 marks)
+6,"6. A bit stream 10011101 is transmitted using the standard CRC method. The generator polynomial is x^4+x^2+1. What is the actual bit transmitted? If the third bit is inverted, how will the receiver detect this error? (10 marks)"
+7,7. Elaborate the architectures of NOX and POX controllers of SDN with their comparison. (10 marks)
+8,8. Differentiate between TCP and UDP protocols with suitable examples. (5 marks)
+9,9. What is Routing? What are desirable characteristics of routing algorithms? Explain distance vector routing with suitable example. (10 marks)
+10,10. Explain Link State Routing (Dijkstra's algorithm) as shortest path routing with suitable example. (10 marks)
+11,11. Describe the different guided transmission medias used in the network. Illustrate with diagram the details for Co-axial cable and state comparative characteristics with fiber optics and twisted pair cables. (10 marks)
+12,12. Explain in brief Cisco PPDIOO Network design Methodology. (10 marks)
+13,13. Elaborate Cisco SONA (Service Oriented Network Architecture) in detail. (10 marks)
+14,14. Explain in brief classic three-layer Hierarchical model for network design by Cisco. (10 marks)
+15,"15. What is subnetting? Given the class C network 192.168.10.0, use the subnet mask 255.255.255.192 to create subnets and calculate: (i) Number of subnets (ii) Hosts per subnet (iii) IP address of first host, last host and broadcast address. (10 marks)"
+16,16. Explain Three Way Handshaking for connection establishment and TCP connection management with suitable diagrams. (10 marks)
+17,17. What is ALOHA? Explain Pure ALOHA and Slotted ALOHA in detail with throughput analysis. (10 marks)
+18,18. Write notes on DNS and explain components of DNS in detail. (5 marks)
+19,19. A 4-bit data bits with binary value 1010 is to be encoded using even parity Hamming code. What is the binary value after encoding? Explain the error detection mechanism. (5 marks)
+20,20. What are the different DLL (Data Link Layer) design issues? Describe them in brief. Enumerate the main responsibilities of the DLL. (10 marks)
+21,"21. Explain Repeater, Hub, Bridge, Switch & Routers with their functionalities and differences. (5 marks)"
+22,22. Write a short note on NAT (Network Address Translation) with its working principle. (5 marks)
+23,23. Compare and contrast Circuit switched network and Packet switched network. (5 marks)
+24,24. Compare and contrast between Connection oriented protocol vs Connectionless protocol. (5 marks)
+25,25. Compare and contrast between IPv4 vs IPv6 addressing schemes. (5 marks)
+26,26. List and describe the different network connection topologies with diagrams. (5 marks)
+27,"27. Explain LAN, MAN and WAN with their characteristics and differences. (5 marks)"
+28,28. Write a short note on OpenFlow messages and OpenFlow Controllers of SDN. (5 marks)
+29,29. Write a short note on DHCP (Dynamic Host Configuration Protocol). (5 marks)
+30,30. Explain in brief: (i) TCP Timers (ii) TCP flow control mechanism with example. (10 marks)

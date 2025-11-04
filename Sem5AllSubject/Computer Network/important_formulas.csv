@@ -1,0 +1,23 @@
+COMPUTER NETWORK - IMPORTANT FORMULAS,
+,
+Topic,Formula
+CSMA/CD Minimum Frame Size,Minimum Frame Size (bits) = 2 × Propagation Time × Bandwidth
+,Propagation Time = Distance / Propagation Speed
+Pure ALOHA Throughput,"S = G × e^(-2G), Maximum at G=0.5, Smax = 0.184 (18.4%)"
+Slotted ALOHA Throughput,"S = G × e^(-G), Maximum at G=1, Smax = 0.368 (36.8%)"
+Hamming Code Parity Bits,"2^r ≥ m + r + 1, where m=data bits, r=parity bits"
+Subnetting - Number of Subnets,"Number of subnets = 2^n, where n = borrowed bits"
+Subnetting - Hosts per Subnet,"Hosts per subnet = 2^h - 2, where h = host bits"
+Efficiency of Stop-and-Wait,"Efficiency = 1 / (1 + 2a), where a = Tp/Tt"
+Propagation Time,Tp = Distance / Propagation Speed
+Transmission Time,Tt = Frame Size / Bandwidth
+Bandwidth-Delay Product,BDP = Bandwidth × Round Trip Time
+TCP Window Size,Window Size ≥ Bandwidth × RTT
+,
+CONVERSIONS,
+1 Byte,8 bits
+1 KB,1024 bytes
+1 MB,1024 KB
+1 Gbps,10^9 bps
+1 Mbps,10^6 bps
+1 Kbps,10^3 bps

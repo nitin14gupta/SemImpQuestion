@@ -1,0 +1,49 @@
+COMPUTER NETWORK - QUESTION PAPER ANALYSIS,,,
+Mumbai University | Subject Code: 48891 | Semester V,,,
+,,,
+TOPIC FREQUENCY ANALYSIS,,,
+Rank,Topic,Frequency,Marks Type
+1,SDN (Software Defined Networking),8,10 marks
+2,IP Addressing (IPv4/IPv6),7,10 marks
+3,OSI & TCP/IP Reference Models,6,10 marks
+4,Sliding Window Protocol,6,10 marks
+5,TCP vs UDP,6,5 marks
+6,"LAN, MAN, WAN",5,5 marks
+7,Transmission Media,4,10 marks
+8,Channel Allocation Problem,4,10 marks
+9,CRC (Error Detection),4,10 marks
+10,CSMA/CD Protocol,4,10 marks
+11,NOX and POX Controllers,4,10 marks
+12,Cisco SONA Architecture,4,5-10 marks
+13,DNS,4,5 marks
+14,Network Devices,3,5 marks
+15,Cisco PPDIOO Methodology,3,10 marks
+16,Distance Vector Routing,3,10 marks
+17,NAT,3,5 marks
+18,Data Link Layer (DLL),3,10 marks
+19,Error Detection (Hamming/Parity),3,5 marks
+20,Circuit vs Packet Switching,2,5 marks
+21,ALOHA Protocol,2,10 marks
+22,Connection Oriented vs Connectionless,2,5 marks
+23,Control and Data Planes,2,10 marks
+24,OpenFlow,2,5 marks
+25,DHCP,2,5 marks
+26,Network Topologies,2,5 marks
+27,Subnetting,2,10 marks
+28,TCP Three-Way Handshake,2,10 marks
+29,TCP Connection Management,2,10 marks
+30,Link State Routing (Dijkstra),2,10 marks
+,,,
+,,,
+PAPERS ANALYZED,,,
+Sr. No.,Paper Name,Date,QP Code
+1,December 2022,22/11/2022,10014058
+2,May 2023,May 2023,10026348
+3,December 2023,22/11/2023,10038971
+4,May 2024,03/06/2024,10056909
+5,December 2024,11/11/2024,10065193
+6,CN 2025 Practice,Practice Paper,N/A
+,,,
+Total Papers Analyzed: 6,,,
+Total Questions Analyzed: 95,,,
+Total Unique Topics: 42,,,
